@@ -1,6 +1,6 @@
 [![npm version](https://badge.fury.io/js/rich-markdown-editor.svg)](https://badge.fury.io/js/rich-markdown-editor) [![CircleCI](https://img.shields.io/circleci/project/github/outline/rich-markdown-editor.svg)](https://circleci.com/gh/outline/rich-markdown-editor) [![Join the community on Spectrum](https://withspectrum.github.io/badge/badge.svg)](https://spectrum.chat/outline) [![Formatted with Prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat)](https://github.com/prettier/prettier)
 
-# rich-markdown-editor
+# markdown-editor
 
 A React and [Slate](https://github.com/ianstormtaylor/slate) based editor that powers the [Outline wiki](http://getoutline.com) and can also be used for displaying content in a read-only fashion.
 The editor is WYSIWYG and includes many formatting tools whilst retaining the ability to write markdown
@@ -10,7 +10,7 @@ shortcuts inline and output Markdown.
 ## Usage
 
 ```javascript
-import Editor from "rich-markdown-editor";
+import Editor from "markdown-editor";
 
 <Editor
   defaultValue="Hello world!"
