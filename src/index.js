@@ -55,7 +55,7 @@ type State = {
   editorLoaded: boolean,
 };
 
-class RichMarkdownEditor extends React.PureComponent<Props, State> {
+class MarkdownEditor extends React.PureComponent<Props, State> {
   static defaultProps = {
     defaultValue: "",
     placeholder: "Write something nice…",
@@ -421,4 +421,4 @@ const StyledEditor = styled(Editor)`
   }
 `;
 
-export default RichMarkdownEditor;
+export default MarkdownEditor;
