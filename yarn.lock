@@ -5592,8 +5592,9 @@ slate-edit-list@^0.11.3:
   version "0.11.3"
   resolved "https://registry.yarnpkg.com/slate-edit-list/-/slate-edit-list-0.11.3.tgz#d27ff2ff93a83bef49131a6a44b87a9558c9d44c"
 
-"slate-markdown-serializer@file:../slate-markdown-serializer":
+"slate-markdown-serializer@https://github.com/scottge/slate-markdown-serializer#master":
   version "5.2.2"
+  resolved "https://github.com/scottge/slate-markdown-serializer#7e6fe3a45cec9bf829fadd45549dd0708803fdf4"
   dependencies:
     hashtag-regex "^2.0.0"
 

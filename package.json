@@ -1,6 +1,6 @@
 {
   "name": "markdown-editor",
-  "description": "A rich text editor with Markdown shortcuts built on Slate",
+  "description": "A rich markdown editor built on Slate",
   "version": "7.0.0-2",
   "main": "lib/index.js",
   "license": "BSD-3-Clause",
@@ -31,7 +31,7 @@
     "slate-collapse-on-escape": "^0.6.1",
     "slate-edit-code": "^0.15.5",
     "slate-edit-list": "^0.11.3",
-    "slate-markdown-serializer": "file:../slate-markdown-serializer",
+    "slate-markdown-serializer": "https://github.com/scottge/slate-markdown-serializer#master",
     "slate-paste-linkify": "^0.5.1",
     "slate-plain-serializer": "0.5.4",
     "slate-prism": "^0.5.0",
@@ -72,7 +72,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/outline/rich-markdown-editor.git"
+    "url": "git+https://github.com/scottge/markdown-editor.git"
   },
   "keywords": [
     "editor",
