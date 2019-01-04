@@ -81,9 +81,8 @@
     "text",
     "wysiwyg"
   ],
-  "author": "Tom Moor <tom.moor@gmail.com>",
   "bugs": {
-    "url": "https://github.com/outline/rich-markdown-editor/issues"
+    "url": "https://github.com/scottge/markdown-editor/issues"
   },
-  "homepage": "https://github.com/outline/rich-markdown-editor#readme"
+  "homepage": "https://github.com/scottge/markdown-editor#readme"
 }
