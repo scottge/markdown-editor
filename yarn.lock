@@ -108,10 +108,10 @@
   version "0.6.6"
   resolved "https://registry.yarnpkg.com/@emotion/memoize/-/memoize-0.6.6.tgz#004b98298d04c7ca3b4f50ca2035d4f60d2eed1b"
 
-"@scottge/slate-markdown-serializer@^1.0.1":
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/@scottge/slate-markdown-serializer/-/slate-markdown-serializer-1.0.1.tgz#a07dfed012f9fd38b45f44845a12d7a6b1ed3f90"
-  integrity sha512-OXrkIk93KLtVTrVRalMQPfY0eWzin+P6zyGbWfZxlJwo3uzfB8eT853/8uPezWhWFbiEuNFDE+vY8kqMQcQVtA==
+"@scottge/slate-markdown-serializer@^1.0.2":
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/@scottge/slate-markdown-serializer/-/slate-markdown-serializer-1.0.2.tgz#0c99fe5b58c3c05dcd9c9a352dcdc15177cfe619"
+  integrity sha512-JPBxnoKsL2TAdc8vEz1DGBpXZUQVgngL8OHcyjZdrgzTf13azBUaZBO1UGff1O6M7yVgHTtJWreDbiUhB1QLcw==
   dependencies:
     hashtag-regex "^2.0.0"
 
